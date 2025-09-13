@@ -33,7 +33,7 @@ namespace PenghitungVolumeTabung
                 Console.WriteLine(" =                                                                 =");
                 Console.WriteLine(" ===================================================================");
                 Console.WriteLine(" ||                          Created By:                          ||");
-                Console.WriteLine(" ||                 https://idekevin.blogspot.com                 ||");
+                Console.WriteLine(" ||                 https://fadelsmm.blogspot.com                 ||");
                 Console.WriteLine(" ===================================================================");
                 Console.WriteLine(" =                                                                 =");
                 Console.WriteLine(" ===================================================================");
